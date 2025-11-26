@@ -33,7 +33,7 @@ body {
 .hero-text h1 {
     font-size: 48px;
     margin-bottom: 20px;
-    color: #57c839;             
+    color: #FFF9F9;             
 }
 
 .hero-text p {
@@ -45,7 +45,7 @@ body {
 .btn {
     display: inline-block;
     background-color: #57c839;
-    color: #000;
+    color: #FFF9F9;
     padding: 12px 20px;
     margin-top: 20px;
     border-radius: 6px;
